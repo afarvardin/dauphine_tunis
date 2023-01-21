@@ -6,7 +6,7 @@ Second, go to your newly created app and keep the *bearer_token*.
 Download ```Hadoop.dll``` and ```winutils.exe``` from this [GitHub](https://github.com/cdarlint/winutils) and put it into the  ```bin``` folder of Spark.
 
 ## Run the Twitter HTTP Client
-Open a terminal and run the ```twitter_app.py``` 
+Open a terminal and run the ```twitter_app.py``` by this command 
 ``` python twitter_app.py ```
 
 Then open another terminal and run 
