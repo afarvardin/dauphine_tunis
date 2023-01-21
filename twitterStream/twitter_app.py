@@ -48,7 +48,7 @@ def set_rules():
     sample_rules = [
         # {"value": "", "tags": ""} , YOU CAN APPLY UP TO 5 RULES PER REQUEST
         # {"value": "Tunisia lang:ar", "tag": "tweet about tunisia in arabic language"},
-        {"value": "#IRGCTerrorists", "tag": "-"}
+        {"value": "#MENTION A HASHTAG", "tag": "-"}
     ]
     payload = {"add": sample_rules}
     response = requests.post(
