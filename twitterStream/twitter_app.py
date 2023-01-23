@@ -3,7 +3,7 @@ import requests
 import json
 import os
 
-bearer_token = 'YOUR TOKEN'
+bearer_token = 'AAAAAAAAAAAAAAAAAAAAAA0ZlQEAAAAAyYlxebzegj8wpkSp4WTqzIOn5eQ%3DN1mAjPwnuvzMcuYOjmpFkCu4BczarOxreBvckkLzeddU5FjLDT'
 def bearer_oauth(r):
     r.headers["Authorization"] = f"Bearer {bearer_token}"
     r.headers["User-Agent"] = "v2FilteredStreamPython"
@@ -48,7 +48,7 @@ def set_rules():
     sample_rules = [
         # {"value": "", "tags": ""} , YOU CAN APPLY UP TO 5 RULES PER REQUEST
         # {"value": "Tunisia lang:ar", "tag": "tweet about tunisia in arabic language"},
-        {"value": "#MENTION A HASHTAG", "tag": "-"}
+        {"value": "#IRGCTerrorists", "tag": "-"}
     ]
     payload = {"add": sample_rules}
     response = requests.post(
@@ -79,14 +79,13 @@ def get_stream():
 
 
 def send_tweets_to_spark(tweets, tcp_connection):
+    counter = 0
     for tweet in tweets.iter_lines():
         if tweet:
             full_tweet = json.loads(tweet)
             tweet_text = full_tweet.get('data')['text']
             print( tweet_text)
             print(f"------------------- {len(tweet_text)} -----------------------")
-            # print(len(tweet_text))
-
             tcp_connection.send(bytes(tweet_text, 'utf-8'))
             # tcp_connection.send(tweet_text)
 
