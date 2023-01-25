@@ -17,4 +17,4 @@ To see more intuitive spark code execution, you can run ```stream_app.ipynb``` f
 
 ## Stop the application
 Using Ctrl+C on the terminal that is running the ```stream_app.py```
-Or click ```ssc.stop()``` cell from the ```stream_app.ipynb```
+Or click ```ssc.stop()``` cell from the ```stream_app.ipynb```.
