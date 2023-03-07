@@ -7,5 +7,5 @@ to get flow streaming twits about the current _inflation_ in the year 2023.
 - The captured data must present visually for better understanding.
 - How you should filter the data? I let you use your creativity :-)
 
-Project delivery: Before Monday, March 13.
+**Project delivery**: Before Monday, March 13.
 
