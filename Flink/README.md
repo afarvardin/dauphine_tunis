@@ -12,7 +12,9 @@ So, every member of a team has to create his/her own branch and work on that.
 Finally, a group has to submit one repository as a final version of the work.
 
 **The Resource you may need to read to windowing concept in data streaming**: Get help from Chapter 6, section _Windows operations_ to complete this project.
+
 **YouTube tutorial for visualization**: https://www.youtube.com/watch?v=Ercd-Ip5PfQ&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=10
+
 **Stream Processing with Apache Flink Book**: https://github.com/bsundlhum/tutup/blob/master/Stream%20Processing%20with%20Apache%20Flink.pdf
 
 **Project delivery**: Before April 2023
