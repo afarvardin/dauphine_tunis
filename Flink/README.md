@@ -7,5 +7,7 @@ to get flow streaming twits about the current _inflation_ in the year 2023.
 - The captured data must present visually for better understanding.
 - How you should filter the data? I let you use your creativity :-)
 
+**Hint**: Get help from Chapter 6, section _Windows operations_ to complete this project.
+
 **Project delivery**: Before Monday, March 13.
 

@@ -5,10 +5,9 @@
 1. Optionally output the result to one or more data sinks.
 1. Execute the program.
 
-The program below converts the temperatures from Fahrenheit to
+We explain the steps above in the below program.
+This program converts the temperatures from Fahrenheit to
 Celsius and computes the average temperature every 5 seconds for each sensor.
-We explain the "Steps to structure a typical Apache Flink streaming application"
-helping this application.
 
 ```scala
 // Scala object that defines the DataStream program in the main() method.
@@ -98,8 +97,8 @@ grouping. The logic of an application is defined by chaining transformations.
 
 In our example, we first apply a map() transformation that converts the
 temperature of each sensor reading to Celsius. Then, we use
-the keyBy() transformation to partition the sensor readings by their sensor ID.
-Next, we define a timeWindow() transformation, which groups the sensor
+the _keyBy()_ transformation to partition the sensor readings by their sensor ID.
+Next, we define a _timeWindow()_ transformation, which groups the sensor
 readings of each sensor ID partition into tumbling windows of 5 seconds:
 
 ```scala
