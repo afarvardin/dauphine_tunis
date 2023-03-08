@@ -9,5 +9,7 @@ to get flow streaming twits about the current _inflation_ in the year 2023.
 
 **Hint**: Get help from Chapter 6, section _Windows operations_ to complete this project.
 
-**Project delivery**: Before Monday, March 13.
+**Project delivery**: Before April 2023
+
+**Stream Processing with Apache Flink Book**: https://github.com/bsundlhum/tutup/blob/master/Stream%20Processing%20with%20Apache%20Flink.pdf
 
