@@ -16,8 +16,8 @@ to get a streaming flow of tweets about the current _inflation_ or whatever topi
 - The code should be runnable on my machine too!
 
 **The GitHub repository should contain**
-- Aside from the code, in the README explain how the project is going to run, logic, etc.
-- The README has to have a screenshot from the visualization data
+- Aside from the code, in the README, explain how the project is going to run, the logic behind, etc.
+- The README should also include a screenshot of the visualization data.
 
 
 
