@@ -5,11 +5,17 @@ to get flow-streaming tweets about the current _inflation_ or whatever topic you
 
 - The project aims to detect related data in Sliding windows operation with fix length of 10 minutes and slide size of 8 minutes.
 - The captured data must present visually for better understanding.
-- How you should filter the data? I let you use your creativity :-)
+- How you should filter the data? One option could be hashTags. But, I let you use your creativity :-)
+- 
 
 **Submit the project as a GitHub repository**
-So, every member of a team has to create his/her own branch and work on that.
-Finally, a group has to submit one repository as a final version of the work.
+- So, every member of a team has to create his/her own branch and work on that.
+- Finally, a group has to submit one repository as a final version of the work.
+- The code should be runnable in my machine too!
+**The GitHub repository should contains**
+- Aside the code, contains a README to explain how the project is going to do
+- The README has to have a screenshot from the visualization data
+
 
 **The Resource you may need to read to windowing concept in data streaming**: Get help from Chapter 6, section _Windows operations_ to complete this project.
 
