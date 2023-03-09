@@ -16,7 +16,7 @@ to get a streaming flow of tweets about the current _inflation_ or whatever topi
 - The code should be runnable on my machine too!
 
 **The GitHub repository should contain**
-- Aside the code, contains a README to explain how the project is going to do
+- Aside from the code, in the README explain how the project is going to run, logic, etc.
 - The README has to have a screenshot from the visualization data
 
 
@@ -25,5 +25,5 @@ to get a streaming flow of tweets about the current _inflation_ or whatever topi
 - **For windowing concept in data streaming**: Chapter 6, section _Windows operations_ from the __Stream Processing with Apache Flink Book__(https://github.com/bsundlhum/tutup/blob/master/Stream%20Processing%20with%20Apache%20Flink.pdf).
 - **An interesting YouTube tutorial for visualization**: https://www.youtube.com/watch?v=Ercd-Ip5PfQ&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=10
 
-In case of any question, contact me on:
+In case of any questions, contact me on:
 - m[dot]surname[of course an AT]hotmail[and a dot]com
