@@ -26,4 +26,4 @@ to get a streaming flow of tweets about the current _inflation_ or whatever topi
 - **An interesting YouTube tutorial for visualization**: https://www.youtube.com/watch?v=Ercd-Ip5PfQ&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=10
 
 In case of any question, contact me on:
-- m[dot]surname@hotmail.com
+- m[dot]surname[of course an AT]hotmail[and a dot]com
