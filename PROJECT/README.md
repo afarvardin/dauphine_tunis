@@ -23,7 +23,7 @@ to get a streaming flow of tweets about the current _inflation_ or whatever topi
 
 **The Resources you may find helpful**
 - **For windowing concept in data streaming**: Chapter 6, section _Windows operations_ from the __Stream Processing with Apache Flink Book__.
-- **An interesting YouTube tutorial for visualization**: https://www.youtube.com/watch?v=Ercd-Ip5PfQ&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=10
+- **An interesting YouTube tutorial for visualization**: [Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time](https://www.youtube.com/watch?v=Ercd-Ip5PfQ&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=10)
 
 In case of any questions, contact me on:
 - m[dot]surname[of course an AT]hotmail[and a dot]com
