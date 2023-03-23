@@ -11,12 +11,12 @@ to get a streaming flow of tweets about the current _inflation_ or whatever topi
 
 
 **Submit the project as a GitHub repository**
-- So, every member of a team has to create his/her own branch and work on that.
-- Finally, a group has to submit one repository as a final version of the work.
+- To do that, every member of a team has to create his/her own branch and work on that.
+- Finally, a group has to submit one repository as a final version of their work.
 - The code should be runnable on my machine too!
 
 **The GitHub repository should contain**
-- Aside from the code, in the README, explain how the project is going to run, the logic behind, etc.
+- Aside from the code, in your repo README, explain how the project has to run, the logic behind it (e.g., windowing size and length, etc.), etc.
 - The README should also include a screenshot of the visualization data.
 
 
