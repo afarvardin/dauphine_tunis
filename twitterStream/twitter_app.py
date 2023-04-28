@@ -3,7 +3,7 @@ import requests
 import json
 import os
 
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAA0ZlQEAAAAAyYlxebzegj8wpkSp4WTqzIOn5eQ%3DN1mAjPwnuvzMcuYOjmpFkCu4BczarOxreBvckkLzeddU5FjLDT'
+bearer_token = 'AAAAAAAAAAAAAAAAAAAAAHjUlAEAAAAAE%2BI4NVMiHWuxacTm6Yk2PBpTXUY%3Dyz3wwTt4NJRm8wgBj9s0S2E6zVqqGNtb1pvkQauemVsWoGNfsX'
 def bearer_oauth(r):
     r.headers["Authorization"] = f"Bearer {bearer_token}"
     r.headers["User-Agent"] = "v2FilteredStreamPython"
@@ -48,7 +48,7 @@ def set_rules():
     sample_rules = [
         # {"value": "", "tags": ""} , YOU CAN APPLY UP TO 5 RULES PER REQUEST
         # {"value": "Tunisia lang:ar", "tag": "tweet about tunisia in arabic language"},
-        {"value": "#IRGCTerrorists", "tag": "-"}
+        {"value": "#inflation", "tag": "-"}
     ]
     payload = {"add": sample_rules}
     response = requests.post(
