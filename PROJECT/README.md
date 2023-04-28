@@ -11,12 +11,12 @@ to get a streaming flow of tweets about the current _inflation_ or whatever topi
 
 
 **Submit the project as a GitHub repository**
-- So, every member of a team has to create his/her own branch and work on that.
-- Finally, a group has to submit one repository as a final version of the work.
+- To do that, every member of a team has to create his/her own branch and work on that.
+- Finally, a group has to submit one repository as a final version of their work.
 - The code should be runnable on my machine too!
 
 **The GitHub repository should contain**
-- Aside from the code, in the README, explain how the project is going to run, the logic behind, etc.
+- Aside from the code, in your repo README, explain how the project has to run, the logic behind it (e.g., windowing size and length, etc.), etc.
 - The README should also include a screenshot of the visualization data.
 
 
@@ -25,5 +25,5 @@ to get a streaming flow of tweets about the current _inflation_ or whatever topi
 - **For windowing concept in data streaming**: Chapter 6, section _Windows operations_ from the __Stream Processing with Apache Flink Book__.
 - **An interesting YouTube tutorial for visualization (but in Python)**: [Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time](https://www.youtube.com/watch?v=Ercd-Ip5PfQ&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=10)
 
-In case of any questions, contact me on:
+Contact me if you have any questions:
 - m[dot]surname[of course an AT]hotmail[and a dot]com
