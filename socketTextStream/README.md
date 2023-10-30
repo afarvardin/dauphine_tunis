@@ -6,7 +6,8 @@ You will first need to run Netcat (a small utility found in most Unix-like syste
 # For Windows users (Linux commands in following)
 Download the _ncat_ from the link below:
 
-https://schilleriu-my.sharepoint.com/:u:/g/personal/amin_farvardin_faculty_schiller_edu/EapqQ5yhNn1GneqZucpxk3sBsyybwZ9zCwumqRtxXHeOag?e=K7sdkN
+https://nmap.org/download.html
+
 Extract it then open a terminal in the extracted path. Run the below commands:
 
 ### TERMINAL 1 
