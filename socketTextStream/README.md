@@ -1,10 +1,10 @@
 # How to run Spark Streaming - socketTextStream
 
 If you have already downloaded and built Spark, you can run this example as follows. 
-You will first need to run Netcat (a small utility found in most Unix-like systems) as a data server by using 'nc' command line
+You will first need to run Netcat (a small utility found in most Unix-like systems) as a data server by using the 'nc' command line
 
 # For Windows users (Linux commands in following)
-Download the _ncat_ from the link below:
+In case you do not have _ncat_ on your machine you can download it from the link below:
 
 https://nmap.org/download.html
 
