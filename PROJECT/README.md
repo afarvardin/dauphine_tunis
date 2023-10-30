@@ -2,18 +2,17 @@
 
 **Project delivery**: Before April 2023
 
-Using [Twitter Streaming API](https://nightlies.apache.org/flink/flink-docs-release-1.13/docs/connectors/datastream/twitter/) 
-to get a streaming flow of tweets about the current _inflation_ or whatever topic you may find interesting.
+Use an API of your choice (e.g., Binance API, Rapid API) to get a streaming flow of some stocks (i.e., AAPL, NFLX, Goog, Amzn, bitcoin, etc.) or whatever topic you may find interesting.
 
-- The project aims to detect related data in Sliding windows operation. Explain the logic that you will use as a fixed length and slide size.  
-- The captured data must present visually for better understanding.
-- How you should filter the data? One option could be hashtags. But, I let you use your creativity. :-)
+- The project aims to detect related data in sliding Windows operation. Explain the logic that you will use as a fixed length and slide size.  
+- The captured data must be presented visually for better understanding.
+- How you should filter the data? I let you to use your creativity. :-)
 
 
 **Submit the project as a GitHub repository**
-- To do that, every member of a team has to create his/her own branch and work on that.
+- To do that, every member of a team has to create his/her branch and work on that.
 - Finally, a group has to submit one repository as a final version of their work.
-- The code should be runnable on my machine too!
+- The code should be runnable on my machine too! 
 
 **The GitHub repository should contain**
 - Aside from the code, in your repo README, explain how the project has to run, the logic behind it (e.g., windowing size and length, etc.), etc.
