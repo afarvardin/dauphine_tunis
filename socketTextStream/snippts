@@ -1,0 +1,24 @@
+# countByWindow
+
+ssc.checkpoint("checkpoint") 
+val lines = ssc.socketTextStream("localhost", 9999) 
+val words = lines flatMap {line => line.split(" ")} 
+val windowLen = 30 
+val slidingInterval = 10 
+val countByWindow = words.countByWindow(Seconds(windowLen), Seconds(slidingInterval)) 
+countByWindow.print()
+
+
+# countByValueAndWindow
+
+ssc.checkpoint("checkpoint") 
+val lines = ssc.socketTextStream("localhost", 9999) 
+val words = lines flatMap {line => line.split(" ")} 
+val windowLen = 30 
+val slidingInterval = 10 
+val countByValueAndWindow = words.countByValueAndWindow(
+	Seconds(windowLen), 
+	Seconds(slidingInterval)) 
+countByValueAndWindow.print()
+
+
