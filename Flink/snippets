@@ -1,0 +1,14 @@
+Linux/Unix Environmentvariable has to set in **~/.bashrc**
+- Open it with nano editor from WSL (if you have windows os)
+- Go to the end of the file and add the command below:
+
+JAVA_HOME="/mnt/c/PATH TO JDK/jdk-11.0.16.1"
+PYTHON_HOME="/mnt/c/YOUR USERNAME/PATH TO PYTHON/Python310/"
+SPARK_HOME="/mnt/c/YOUR USERNAME/PATH TO/spark-3.3.1-bin-hadoop3"
+M2_HOME='/opt/apache-maven-3.9.0'
+FLINK_HOME='/mnt/c/PATH TO FLINK/flink-1.18.0'
+
+DRUID_JAVA_HOME='/usr/bin/perl'
+
+PATH="$PATH:$JAVA_HOME/bin:$PYTHON_HOME:$SPARK_HOME/bin:$M2_HOME/bin:$FLINK_HOME/bin"
+export PATH
