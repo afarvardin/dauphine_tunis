@@ -1,6 +1,6 @@
 # The Course Project
 
-**Project delivery**: End of December 2023
+**Deadline for Project delivery**: End of December 2023
 
 Use an API of your choice (e.g., Binance API, Rapid API, etc.) to get a streaming flow of some stocks (i.e., AAPL, NFLX, Goog, Amzn, bitcoin, etc.) or a topic of your interest.
 
