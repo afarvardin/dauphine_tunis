@@ -13,11 +13,11 @@ Use an API of your choice (e.g., Binance API, Rapid API, etc.) to get a streamin
 - To do that, every member of a team has to create his/her branch and work on that.
 - Finally, a group has to submit one repository as a final version of their work.
 - The code should be runnable on my machine too!
-- 
-**The GitHub repository should contain**
-- Aside from the code, in your repo README, explain how the project has to run, the logic behind it (e.g., windowing size and length, etc.), etc.
-- The README should also include a screenshot of the visualization data.
 
+  
+**The GitHub repository should contain**
+- Aside from the code, in your repo README, explain how the project has to run, and the logic behind it (e.g., windowing size and length, etc.).
+- The README should also include a screenshot of the visualization data.
 
 
 **The Resources you may find helpful**
