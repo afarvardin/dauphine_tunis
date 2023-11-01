@@ -22,6 +22,7 @@ At this point, you have everything that you need to use Kafka. However, to make 
 Add these lines to your .bashrc or .zshrc file.
 
 > export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
+> 
 > export KAFKA_HOME=~/kafka_2.12-3.6.0/
 
 To load the source file again without doing a re-opening of your WSL, just type:
