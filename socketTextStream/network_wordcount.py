@@ -10,6 +10,20 @@ ssc = StreamingContext(sc, 1)
 
 # Using this context, we can create a DStream that represents streaming data from a TCP source, specified as hostname (e.g. localhost) and port (e.g. 9999).
 
+"""
+## Logging levels
+## ALL: Enables all logging messages.
+## DEBUG: Provides detailed information, typically of interest only when diagnosing problems.
+## INFO: Provides informational messages that highlight the progress of the application at a high level.
+## WARN: Indicates potentially harmful situations that still allow the application to continue running.
+## ERROR: Indicates error events that might still allow the application to continue running.
+## FATAL: Indicates very severe error events that will presumably lead the application to abort.
+## OFF: Turns off logging.
+## TRACE: Provides more detailed information than DEBUG, often used for fine-grained debugging.
+"""
+
+sc.setLogLevel("ERROR")
+
 # Create a DStream that will connect to hostname:port, like localhost:9999
 lines = ssc.socketTextStream("localhost", 9999)
 
