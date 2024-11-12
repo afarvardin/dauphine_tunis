@@ -1,4 +1,5 @@
-# The Course Project
+# Final Project: Data Streaming course
+
 
 **Deadline for Project delivery**: 
 
