@@ -1,6 +1,6 @@
 # Final Project (Data Streaming course)
 
-**Deadline for Project delivery**:
+
 
 ## Projecr definitions
 - Use an API of your choice (e.g., Binance API, Rapid API, etc.) to get a streaming flow of some stocks (i.e., AAPL, NFLX, Goog, Amzn, bitcoin, etc.) or a topic of your interest into Kafka.
