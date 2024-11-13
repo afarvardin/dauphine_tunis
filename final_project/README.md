@@ -1,6 +1,6 @@
 # Final Project (Data Streaming course)
 
-
+**Deadline for Project delivery**:  Mid of December 2024
 
 ## Projecr definition
 - Use an API of your choice (e.g., Binance API, Rapid API, etc.) to get a streaming flow of some stocks (i.e., AAPL, NFLX, Goog, Amzn, bitcoin, etc.) or a topic of your interest into Kafka.
@@ -21,6 +21,7 @@ For this purpose:
 **The GitHub repository should contain:**
 - An README aside to your code, and explain how the project has to run.
 - The README should also include a screenshot of the visualization data
+- Providing a readme named "README_GPT" that contains all of your questions that you had from AI (ChatGpt, Mistral, Perplexity, etc.) 
 
 ---
 **The Resources that you may find them helpful**
