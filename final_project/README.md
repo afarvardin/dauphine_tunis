@@ -1,11 +1,11 @@
 # Final Project (Data Streaming course)
 
-**Deadline for Project delivery**: End of December 2024
+**Deadline for Project delivery**: Mid of December 2024
 
 ## Projecr definitions
-- Use an API of your choice (e.g., Binance API, Rapid API, etc.) to get a streaming flow of some stocks (i.e., AAPL, NFLX, Goog, Amzn, bitcoin, etc.) or a topic of your interest.
+- Use an API of your choice (e.g., Binance API, Rapid API, etc.) to get a streaming flow of some stocks (i.e., AAPL, NFLX, Goog, Amzn, bitcoin, etc.) or a topic of your interest into Kafka.
 
-- The project aims to ingest data fromm kafka and detect related data with Apache Flink in sliding Windows operation with a windows length 10 minutes and slide length 1 minutes (I would appreciate it with an extra mark if you could come up with the new length of windowing and sliding size if you explain why).
+- The project aims to ingest data from kafka (OR directly ingest from API if you get stuck) and detect related data with Apache Flink in sliding Windows operation with a windows length 10 minutes and slide length 1 minutes (I would appreciate it with an extra mark if you could come up with the new length of windowing and sliding size if you explain why).
 - The captured data must be presented visually for better understanding.
 - How you should filter the data? I let you to use your creativity. :-)
 
