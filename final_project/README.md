@@ -2,7 +2,7 @@
 
 
 
-## Projecr definitions
+## Projecr definition
 - Use an API of your choice (e.g., Binance API, Rapid API, etc.) to get a streaming flow of some stocks (i.e., AAPL, NFLX, Goog, Amzn, bitcoin, etc.) or a topic of your interest into Kafka.
 
 - The project aims to ingest data from kafka (OR directly ingest from API if you get stuck) and detect related data with Apache Flink in sliding Windows operation with a windows length 10 minutes and slide length 1 minutes (I would appreciate it with an extra mark if you could come up with the new length of windowing and sliding size if you explain why).
