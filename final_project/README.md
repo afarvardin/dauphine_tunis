@@ -5,9 +5,9 @@
 ## Projecr definition
 - Use an API of your choice (e.g., Binance API, Rapid API, etc.) to get a streaming flow of some stocks (i.e., AAPL, NFLX, Goog, Amzn, bitcoin, etc.) or a topic of your interest into Kafka.
 
-- The project aims to ingest data from kafka (OR directly ingest from API if you get stuck) and detect related data with Apache Flink in sliding Windows operation with a windows length 10 minutes and slide length 1 minutes (I would appreciate it with an extra mark if you could come up with the new length of windowing and sliding size if you explain why).
+- The project aims to ingest data from kafka (OR directly ingest from API if you get stuck) and detect related data with Apache Flink in sliding Windows operation with a window length 10 minutes and slide length 1 minute (I would appreciate it with an extra mark if you could come up with the new length of windowing and sliding size if you explain why).
 - The captured data must be presented visually for better understanding.
-- How you should filter the data? I let you to use your creativity. :-)
+- How should you filter the data? I let you to use your creativity. :-)
 
 
 **Submit the project as a GitHub repository**
@@ -27,6 +27,11 @@ For this purpose:
 **The Resources that you may find them helpful**
 - **For windowing concept in data streaming**: Chapter 6, section _Windows operations_ from the __Stream Processing with Apache Flink Book__.
 - **An interesting YouTube tutorial for visualization (in Python)**: [Matplotlib Tutorial (Part 9): Plotting Live Data in Real-Time](https://www.youtube.com/watch?v=Ercd-Ip5PfQ&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=10)
+
+## Bonus
+This week's delivery (Nov 13-17) has a 10% extra grade.
+**Note:** Those Students were absent during the course considered as knowledgable students and they do not receive this bonus. 
+
 
 Contact me if you have any questions via:
 - m[dot]my_surname[of course an AT sign]hotmail[and a dot]com
