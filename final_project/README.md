@@ -19,7 +19,7 @@
 For this purpose:
 
 **The GitHub repository should contain:**
-- An README aside to your code, and explain how the project has to run.
+- An README aside to your code, and explain how the project has to run
 - The README should also include a screenshot of the visualization data
 - Providing a readme named "README_GPT" that contains all of your questions that you had from AI (ChatGpt, Mistral, Perplexity, etc.) 
 
