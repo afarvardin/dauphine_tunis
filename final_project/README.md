@@ -12,7 +12,7 @@
 
 **Submit the project as a GitHub repository**
 - To do that, everyone has to create his/her own **PRIVATE** GitHub repository and work on that.
-- You must add me as a contributor (from the settings) in your **Private** repository.
+- You must add me as a contributor (from the settings) in your **Private** repository otherwise I can not see your work.
 - Highly recommended to push every step of the project that you have done to your repository.
 - Finally, submit your repository as a final version of your work.
 - The code should be runnable on my machine too!
