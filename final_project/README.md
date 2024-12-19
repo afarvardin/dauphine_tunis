@@ -32,7 +32,7 @@ For this purpose:
 ## Bonus
 This week's delivery (Nov 13-17) has a 10% extra grade.
 
-**Note:** Those Students who were absent during the course are considered knowledgable students and they do not receive this bonus. 
+**Note:** Those Students who were absent during the course are considered as knowledgable students and they do not receive this bonus. 
 
 
 Contact me if you have any questions via:
